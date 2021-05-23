@@ -1,0 +1,20 @@
+﻿[
+  {
+    "ProductId": "1",
+    "Name": "Apples",
+    "Quantity": "100"
+
+  },
+  {
+    "ProductId": "2",
+    "Name": "Pumpkin",
+    "Quantity": "20"
+
+  },
+  {
+    "ProductId": "3",
+    "Name": "Onions",
+    "Quantity": "200"
+
+  }
+]
